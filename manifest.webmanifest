@@ -1,0 +1,9 @@
+{
+  "name": "Tyranids Deployment Builder",
+  "short_name": "Tyranids Builder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171b20",
+  "icons": []
+}

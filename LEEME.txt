@@ -1,0 +1,7 @@
+TYRANIDS DEPLOYMENT BUILDER
+Sube todos los archivos a la raíz de un repositorio nuevo y activa GitHub Pages en Settings > Pages > Deploy from a branch > main > /(root).
+
+Fotografías: catalog.json ya contiene rutas locales para cada unidad, por ejemplo images/the-swarmlord.webp e images/biovoro.webp. Añade las fotos oficiales con esos nombres exactos dentro de la carpeta images. No se incluyen imágenes de Games Workshop en este paquete; debes incorporar archivos que tengas derecho a utilizar. Si falta una foto, aparece un marcador neutro.
+
+Clic en una unidad para añadirla. También puedes arrastrarla al tablero. Mueve las miniaturas arrastrándolas por el tablero. Doble clic en una miniatura para eliminarla. Se guarda automáticamente en el navegador. Un ejército nuevo empieza con Biovoro y The Swarmlord. El catálogo mantiene los nombres y puntos que facilitaste.
+Para forzar actualización de caché, cambia el identificador CACHE en sw.js (v1, v2, v3...).

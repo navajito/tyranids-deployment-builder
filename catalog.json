@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Biovoro",
+    "points": 50,
+    "image": "images/biovoro.webp"
+  },
+  {
+    "name": "Broodlord",
+    "points": 80,
+    "image": "images/broodlord.webp"
+  },
+  {
+    "name": "Deathleaper",
+    "points": 80,
+    "image": "images/deathleaper.webp"
+  },
+  {
+    "name": "Exocrine",
+    "points": 135,
+    "image": "images/exocrine.webp"
+  },
+  {
+    "name": "Haruspex",
+    "points": 125,
+    "image": "images/haruspex.webp"
+  },
+  {
+    "name": "Hive Tyrant",
+    "points": 195,
+    "image": "images/hive-tyrant.webp"
+  },
+  {
+    "name": "Hormagantes x 10",
+    "points": 70,
+    "image": "images/hormagantes-x-10.webp"
+  },
+  {
+    "name": "Hormagantes x 20",
+    "points": 120,
+    "image": "images/hormagantes-x-20.webp"
+  },
+  {
+    "name": "Hyperadapted Raveners",
+    "points": 165,
+    "image": "images/hyperadapted-raveners.webp"
+  },
+  {
+    "name": "Maleceptor",
+    "points": 180,
+    "image": "images/maleceptor.webp"
+  },
+  {
+    "name": "Mawloc",
+    "points": 130,
+    "image": "images/mawloc.webp"
+  },
+  {
+    "name": "Neurotyrant",
+    "points": 120,
+    "image": "images/neurotyrant.webp"
+  },
+  {
+    "name": "Norn Assimilator",
+    "points": 250,
+    "image": "images/norn-assimilator.webp"
+  },
+  {
+    "name": "Norn Emissary",
+    "points": 250,
+    "image": "images/norn-emissary.webp"
+  },
+  {
+    "name": "Old One Eye",
+    "points": 130,
+    "image": "images/old-one-eye.webp"
+  },
+  {
+    "name": "Parasite of Mortrex",
+    "points": 65,
+    "image": "images/parasite-of-mortrex.webp"
+  },
+  {
+    "name": "Psychophage",
+    "points": 110,
+    "image": "images/psychophage.webp"
+  },
+  {
+    "name": "Ripper Swarms",
+    "points": 30,
+    "image": "images/ripper-swarms.webp"
+  },
+  {
+    "name": "Screamer-killer",
+    "points": 125,
+    "image": "images/screamer-killer.webp"
+  },
+  {
+    "name": "Termagantes x 10",
+    "points": 55,
+    "image": "images/termagantes-x-10.webp"
+  },
+  {
+    "name": "Termagantes x 20",
+    "points": 110,
+    "image": "images/termagantes-x-20.webp"
+  },
+  {
+    "name": "Tervigon",
+    "points": 150,
+    "image": "images/tervigon.webp"
+  },
+  {
+    "name": "The Red Terror",
+    "points": 120,
+    "image": "images/the-red-terror.webp"
+  },
+  {
+    "name": "The Swarmlord",
+    "points": 210,
+    "image": "images/the-swarmlord.webp"
+  },
+  {
+    "name": "Toxicrene",
+    "points": 120,
+    "image": "images/toxicrene.webp"
+  },
+  {
+    "name": "Trygon",
+    "points": 135,
+    "image": "images/trygon.webp"
+  },
+  {
+    "name": "Tyranid Prime with Lash Whip",
+    "points": 75,
+    "image": "images/tyranid-prime-with-lash-whip.webp"
+  },
+  {
+    "name": "Tyranid Warriors with Ranged Bio-Weapons (3)",
+    "points": 60,
+    "image": "images/tyranid-warriors-with-ranged-bio-weapons-3.webp"
+  },
+  {
+    "name": "Tyrannofex",
+    "points": 170,
+    "image": "images/tyrannofex.webp"
+  },
+  {
+    "name": "Tyrant Guard (3)",
+    "points": 80,
+    "image": "images/tyrant-guard-3.webp"
+  },
+  {
+    "name": "Venomthropes (3)",
+    "points": 55,
+    "image": "images/venomthropes-3.webp"
+  },
+  {
+    "name": "Von Ryan's Leapers (3)",
+    "points": 55,
+    "image": "images/von-ryan-s-leapers-3.webp"
+  },
+  {
+    "name": "Von Ryan's Leapers (6)",
+    "points": 105,
+    "image": "images/von-ryan-s-leapers-6.webp"
+  },
+  {
+    "name": "Winged Hive Tyrant",
+    "points": 185,
+    "image": "images/winged-hive-tyrant.webp"
+  },
+  {
+    "name": "Winged Tyranid Prime",
+    "points": 65,
+    "image": "images/winged-tyranid-prime.webp"
+  },
+  {
+    "name": "Zoanthropes (3)",
+    "points": 90,
+    "image": "images/zoanthropes-3.webp"
+  },
+  {
+    "name": "Zoanthropes (6)",
+    "points": 180,
+    "image": "images/zoanthropes-6.webp"
+  }
+]
